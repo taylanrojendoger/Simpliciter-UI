@@ -1,0 +1,28 @@
+.border {
+    border: 1px solid #C0C4CC;
+}
+
+.border-bottom {
+    border-bottom: 1px solid #C0C4CC;
+}
+
+.aside {
+    margin: 0px;
+    padding: 0px;
+    height: 100%;
+    position: relative;
+}
+
+.main {
+    height: 100%;
+    width: 100%;
+    position: absolute;
+}
+
+
+html,
+body {
+    margin: 0px;
+    height: 100%;
+    width: 100%;
+}
